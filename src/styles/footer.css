@@ -1,0 +1,55 @@
+.footer {
+    margin-top: 80px;
+    height: 10rem;
+    background-color: #393939;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0px;
+   
+  }
+
+.fit1{
+    height: 3em;
+    margin: 2em;
+}
+.insta{
+    background-image: url(https://i.ibb.co/n6CRjtM/instagram.png); 
+    height: 5em;
+    width: 5em;
+    border-radius: 50px;
+    border-color: #ffffff;
+
+  margin: 5px;
+}
+.facebook{
+    background-image: url(https://i.ibb.co/YBvgJm8/facebook.png); 
+    height: 5em;
+    width: 5em;
+    border-radius: 50px;
+    border-color: #ffffff;
+
+}
+.what{
+    background-image: url(https://i.ibb.co/pbj4tQ6/whatsapp.png); 
+    height: 5em;
+    width: 5em;
+    border-radius: 50px;
+    border-color: #ffffff;
+
+}
+.subfoot {
+    margin: 1em;
+    display: flex;
+    justify-content: space-between;
+    width: 15em;
+}
+a.n {
+    margin: 0px;
+}
+html {
+    min-height: 100%;
+    position: relative;
+  }
