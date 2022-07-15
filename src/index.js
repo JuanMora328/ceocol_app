@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Nav from './components/login/NavBar';
+import Nav from './components/ui/NavBar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
