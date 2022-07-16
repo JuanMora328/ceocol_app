@@ -1,50 +1,41 @@
-.footer {
-    margin-top: 80px;
-    height: 10rem;
-    background-color: #393939;
-    display: flex;
-    justify-content: space-between;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    left: 0px;
+h1{
+
+    /* position: absolute; */
+    /* width: 628px;
+    /* height: 116px; */
+    left:18,5em; 
+    top: 52em;
+    margin-left: 5%;
+    font-family: 'Outfit'; 
+    font-style: normal;
+    font-weight:500;
    
-  }
+    line-height: 81px;
+    display: flex; 
+    align-items: center;
+    
+    /* Basicos/BlancoN */
 
-.fit1{
-    height: 3em;
-    margin: 2em;
+    color: #F8F8F8;
+    
 }
-.insta{
-    background-image: url(https://i.ibb.co/n6CRjtM/instagram.png); 
-    height: 5em;
-    width: 5em;
-    border-radius: 50px;
-    border-color: #ffffff;
 
-  margin: 5px;
-}
-.facebook{
-    background-image: url(https://i.ibb.co/YBvgJm8/facebook.png); 
-    height: 5em;
-    width: 5em;
-    border-radius: 50px;
-    border-color: #ffffff;
+p{
+    /* position: absolute;
+    width: 832px;
+    height: 116px;
+    left: 116px;
+    top: 103px; */
 
-}
-.what{
-    background-image: url(https://i.ibb.co/pbj4tQ6/whatsapp.png); 
-    height: 5em;
-    width: 5em;
-    border-radius: 50px;
-    border-color: #ffffff;
-
-}
-.subfoot {
-    margin: 1em;
-    display: flex;
-    justify-content: space-between;
-    width: 15em;
+    font-family: 'PT Sans';
+    font-size: 100%;
+    margin-left: 5%;
+  
+    
+    
+    /* Basicos/BlancoN */
+    
+    color: #F8F8F8;
 }
 a.n {
     margin: 0px;
