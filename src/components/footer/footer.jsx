@@ -5,24 +5,48 @@ export const Footer = () =>{
 
     return (
       
+        <div class="fixed-bottom">
         <div class="footer">
-            <div class="ceocol">
-                CEOCOL
-            </div>
-       
-        <div class="subfoot">
-        <a class="n" href="https://www.instagram.com/fitboxgympalmira/?hl=es"><input class="insta" type="button" /></a>
-        <a class="n" href="https://www.facebook.com/fitboxmovil"><input class="facebook" type="button" /></a>
-        <a class="n" href="https://api.whatsapp.com/send?phone=573166961391&app=facebook&entry_point=page_cta&fbclid=IwAR1si-fILeeElnx1rDuOWiUunXf2t4dffYQhMsOT69lcFJEZubZ0EwxXd4c"><input class="what" type="button" /></a>
-        
-        </div>
-        
-        <img class="fit1" src='https://i.ibb.co/x2F042s/Frame.png'/>
+           
+           <div class="row g-0 bg-secondary">
+           <div class="col-sm-6  bg-danger" >
+                <div class="g-col-6 g-col-md-4 ">
 
-        
-        
+              
+                    <div class="p-3 border "><h1 >CEOCOL</h1>
+                    <p > Conductores Elegidos del Occidente de Colombia S.A.S <br></br>
+                    NIT: 900706021-0</p>
+                    </div>
+                    <div ><p>4021 Pagac Prairie</p>
+                    
+                    
+                </div>
+           <div class="container">
+                <div class="sub-container"><h1 >CEOCOL</h1></div>
+           </div>
+
+                
+                </div>
+            
+              
+            
+            </div>
+                
+            <div class="col-sm-6  bg-primary">
+                    <div class=""><h1 >ASCENT</h1></div>
+                    
+                    </div>
+          
+           <div class="container">
+           <div class="sub-container"><h1>ASCENT</h1></div>
+           </div>
+          
+           
+          
+
       </div>
-        
+      </div>
+      </div>
     )
 }
 export default Footer
