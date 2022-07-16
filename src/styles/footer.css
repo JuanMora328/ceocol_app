@@ -1,28 +1,41 @@
-h1{
+.footer {
+    margin-top: 80px;
+    height: 10rem;
+    background-color: #393939;  
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0px;
+   
+  }
+  .container{
 
-  font-family: 'Outfit';
-font-style: normal;
-font-weight: 500;
-font-size: 64px;
-line-height: 81px;
-display: flex;
-align-items: center;
-/* Basicos/BlancoN */
+    background-color:yellow;
+    width: 50%;
+    position: relative;
+    display: inline-block;
+  }
 
-color: #F8F8F8;
+  .sub-container{
 
-}
-p{
+    background-color:green;
+    width: 50%;
+   
+    position: relative;
+  
+    display: inline-block;
+  }
 
-  font-family: 'PT Sans';
-font-style: normal;
-font-weight:lighter;
-font-size: 100%;
-line-height: 100%;
-display: flex;
-align-items: center;
+  #h1{
 
-/* Basicos/BlancoN */
+    font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 81px;
+  display: flex;
+  align-items: center;
+  /* Basicos/BlancoN */
 
-color: #F8F8F8;}
-
+  color: #F8F8F8;
+  }
